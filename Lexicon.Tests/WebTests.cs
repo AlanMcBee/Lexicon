@@ -1,4 +1,4 @@
-namespace Lexicon.Tests;
+namespace CodeCharm.Lexicon.Tests;
 
 public class WebTests
 {

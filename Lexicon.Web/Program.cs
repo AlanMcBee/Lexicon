@@ -1,5 +1,5 @@
-using Lexicon.Web;
-using Lexicon.Web.Components;
+using CodeCharm.Lexicon.Web;
+using CodeCharm.Lexicon.Web.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

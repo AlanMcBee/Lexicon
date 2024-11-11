@@ -1,4 +1,4 @@
-namespace Lexicon.Web;
+namespace CodeCharm.Lexicon.Web;
 
 public class WeatherApiClient(HttpClient httpClient)
 {
